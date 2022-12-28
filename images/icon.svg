@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+	<title>New Project</title>
+	<defs>
+		<image width="512" height="512" id="img1" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGNsYXNzPSJpb25pY29uIiB2aWV3Qm94PSIwIDAgNTEyIDUxMiI+PHRpdGxlPkxpYnJhcnk8L3RpdGxlPjxyZWN0IHg9IjMyIiB5PSI5NiIgd2lkdGg9IjY0IiBoZWlnaHQ9IjM2OCIgcng9IjE2IiByeT0iMTYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iY3VycmVudENvbG9yIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjMyIi8+PHBhdGggZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIzMiIgZD0iTTExMiAyMjRoMTI4TTExMiA0MDBoMTI4Ii8+PHJlY3QgeD0iMTEyIiB5PSIxNjAiIHdpZHRoPSIxMjgiIGhlaWdodD0iMzA0IiByeD0iMTYiIHJ5PSIxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMzIiLz48cmVjdCB4PSIyNTYiIHk9IjQ4IiB3aWR0aD0iOTYiIGhlaWdodD0iNDE2IiByeD0iMTYiIHJ5PSIxNiIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIHN0cm9rZS1saW5lam9pbj0icm91bmQiIHN0cm9rZS13aWR0aD0iMzIiLz48cGF0aCBkPSJNNDIyLjQ2IDk2LjExbC00MC40IDQuMjVjLTExLjEyIDEuMTctMTkuMTggMTEuNTctMTcuOTMgMjMuMWwzNC45MiAzMjEuNTljMS4yNiAxMS41MyAxMS4zNyAyMCAyMi40OSAxOC44NGw0MC40LTQuMjVjMTEuMTItMS4xNyAxOS4xOC0xMS41NyAxNy45My0yMy4xTDQ0NSAxMTVjLTEuMzEtMTEuNTgtMTEuNDItMjAuMDYtMjIuNTQtMTguODl6IiBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLXdpZHRoPSIzMiIvPjwvc3ZnPg=="/>
+	</defs>
+	<style>
+		.s0 { fill: #5567ed } 
+	</style>
+	<path id="TS" class="s0" aria-label="TS"  d="m567 366v-138.8l-43.5 0.1v-31.5h118v31.5h-44v138.7zm136.3-105.5h30.7q10.5 0 19.5 4 9.2 4 15.7 11.3 6.8 7 10.3 17 3.7 9.7 3.7 21.5 0 11-3.5 20.5-3.2 9.5-9.5 16.5-6.2 6.7-14.7 10.7-8.5 4-19 4h-77.5v-31.5h68.5q5 0 9.5-1.2 4.7-1.3 8-3.8 3.2-2.5 5.2-6.2 2-3.8 2-9 0-9.8-6.5-15.3-6.2-5.5-15.7-5.5h-20.3q-12.7 0-23.2-2.7-10.5-2.8-17.8-8.8-7.2-6-11.2-15.5-4-9.5-4-22.7 0-9.3 3.2-18 3.3-8.8 9-15.3 5.8-6.7 14-10.7 8.3-4 18.3-4h70.2v33.2h-57.2q-5 0-9.3 0.8-4.2 0.5-7.5 2.2-3.2 1.5-5 4.8-1.7 3.2-1.7 8.7 0 6.3 4.2 10.8 4.3 4.2 11.5 4.2z"/>
+	<use id="library-outline" href="#img1" transform="matrix(1,0,0,1,12,-18)"/>
+</svg>
