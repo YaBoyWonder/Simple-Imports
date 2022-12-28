@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <a href=""><img src="./images/icon.svg" width="260" alt="Simple Imports" /></a>
+    <a href="https://marketplace.visualstudio.com/items?itemName=YaBoyWonder.simple-imports"><img src="./images/icon.svg" width="260" alt="Simple Imports" /></a>
   </p>
 </div>
 
