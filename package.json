@@ -3,7 +3,7 @@
   "displayName": "Simple Imports",
   "description": "Generate a file to clean and shorten all the imports for your Typescript application",
   "version": "1.0.0",
-  "icon": "images/icon.svg",
+  "icon": "images/icon-svg.jpg",
   "author": {
     "name": "YaBoyWonder"
   },
